@@ -1,0 +1,9 @@
+Tabelas Cabeçalhos Senior 
+
+
+SELECT * FROM R996tbl WHERE tblnam LIKE '%R034FUN%'
+
+
+
+
+SELECT * FROM R996fld WHERE tblnam LIKE '%R034FUN%'
